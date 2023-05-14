@@ -10,7 +10,7 @@ https://hashnode.github.io/badges/mern.svg)](https://hashnode.com/n/mern)
 
 MERN is a scaffolding tool which makes it easy to build isomorphic apps using Mongo, Express, React and NodeJS. It minimises the setup time and gets you up to speed using proven technologies.
 
-- [Website](http://mern.io)
+- [Website](http://mern.io) mern.io sudah tidak aktif lagi, diganti dengan mern.islamicity.tv
 - [Documentation](http://mern.io/documentation.html)
 - [Discussions](https://hashnode.com/n/mern)
 
