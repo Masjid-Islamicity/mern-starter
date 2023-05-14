@@ -29,11 +29,12 @@ We're on our way towards V3, which will bring a few updates to MERN! We are trac
 
 ```sh
   npm install -g mern-cli
-  mern init your_new_app
+  mern init your_new_app 
   cd your_new_app
   npm install
   npm start
 ```
+nb: your_new_app = masjidislamicity
 
 **Note : Please make sure your MongoDB is running.** For MongoDB installation guide see [this](https://docs.mongodb.org/v3.0/installation/). Also `npm6` is required to install dependencies properly.
 
